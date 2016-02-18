@@ -21,6 +21,7 @@
     "express": "^4.12.4",
     "forever": "^0.15.1",
     "netflix-roulette": "^1.0.2",
+    "node-sass-endpoint": "^0.3.0",
     "node-yelp": "0.0.3",
     "pg": "^4.4.4",
     "request-promise": "^2.0.1"
